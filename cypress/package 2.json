@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "cypress": "^9.7.0",
+    "cypress-xpath": "^1.6.2"
+  },
+  "dependencies": {
+    "@applitools/eyes-cypress": "^3.26.1",
+    "chai": "^4.3.6"
+  }
+}
